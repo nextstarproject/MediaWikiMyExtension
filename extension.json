@@ -1,8 +1,14 @@
 {
   "name": "MyExtension",
+  "manifest_version": 2,
   "version": "0.0.1",
   "descriptionmsg": "myextension-desc",
-  "ExtensionMessagesFiles": {
-    "MyExtensionNamespaces": "MyExtension.i18n.namespaces.php"
+  "MessagesDirs": {
+    "redactor": [
+      "i18n"
+    ],
+    "uploader": [
+      "i18n"
+    ]
   }
 }

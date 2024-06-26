@@ -1,0 +1,10 @@
+{
+    "redactor": "编辑者",
+    "group-redactor": "编辑者",
+	"group-redactor-member": "{{GENDER:$1|编辑者}}",
+    "grouppage-redactor": "{{ns:project}}:编辑者",
+    "uploader": "上传者",
+    "group-uploader": "上传者",
+	"group-uploader-member": "{{GENDER:$1|上传者}}",
+    "grouppage-uploader": "{{ns:project}}:上传者"
+}

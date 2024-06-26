@@ -25,6 +25,12 @@ if( !defined( 'NS_CHINESEMEDICINE_TALK' ) ) {
 }
 
 /** English */
+// $wgNamespaceAliases['en'] = [
+//     NS_LINUX => 'Linux',
+//     NS_LINUX_TALK => 'Linux_talk',
+//     NS_CHINESEMEDICINE => 'ChineseMedicine',
+//     NS_CHINESEMEDICINE_TALK => 'ChineseMedicine_talk'
+// ];
 $namespaceNames['en'] = [
     NS_LINUX => 'Linux',
     NS_LINUX_TALK => 'Linux_talk',
@@ -33,6 +39,12 @@ $namespaceNames['en'] = [
 ];
 
 /** Chinese */
+// $wgNamespaceAliases['zh'] = [
+//     NS_LINUX => 'Linux',
+//     NS_LINUX_TALK => 'Linux_talk',
+//     NS_CHINESEMEDICINE => 'ChineseMedicine',
+//     NS_CHINESEMEDICINE_TALK => 'ChineseMedicine_talk'
+// ];
 $namespaceNames['zh'] = [
     NS_LINUX => 'Linux',
     NS_LINUX_TALK => 'Linux讨论',

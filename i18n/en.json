@@ -1,0 +1,10 @@
+{
+    "redactor": "Redactor",
+    "group-redactor": "Redactor",
+	"group-redactor-member": "{{GENDER:$1|Redactor}}",
+    "grouppage-redactor": "{{ns:project}}:Redactor",
+    "uploader": "Uploader",
+    "group-uploader": "Uploader",
+	"group-uploader-member": "{{GENDER:$1|Uploader}}",
+    "grouppage-uploader": "{{ns:project}}:Uploader"
+}
